@@ -56,8 +56,8 @@ Total 323ms
 
 The files you'll be interested in if you're following the [tutorial][tutorial] are in the `test` directory:
 
-* `test/main_test.js`
-* `test/fixtures/index.js`
+* [`test/main_test.js`](/test/main_test.js)
+* [`test/fixtures/index.js`](/test/fixtures/index.js)
 
 ## License
 Copyright (c) 2014 Camille Reynders. Licensed under the MIT license.
